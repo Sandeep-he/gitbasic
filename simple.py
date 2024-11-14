@@ -12,5 +12,6 @@ d=0
 for i in range(0,n,1):
         d+=x[i]*y[i]
 print(d)
+print(d)
 
 
